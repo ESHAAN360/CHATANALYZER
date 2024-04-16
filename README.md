@@ -1,5 +1,6 @@
 # CHAT_ANALYZER
 A streamlit app to analyze your whatsapp chats
+
 Input File Format : Whatsapp Imported Chats
 
 1. SELECT A WHATSAPP CHAT 
