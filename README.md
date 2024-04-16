@@ -1,7 +1,7 @@
 # CHAT_ANALYZER
 A streamlit app to analyze your whatsapp chats
 Input File Format : Whatsapp Imported Chats
-STEPS:
+
 1. SELECT A WHATSAPP CHAT 
 2. SELECT THE OPTIONS AS HIGHLIGHTED IN THE FOLLOWING IMAGES:
 ![1](https://github.com/ESHAAN360/CHAT_ANALYZER/assets/113165864/7503b7d1-7136-4c06-9f29-bc8aaeb55001)
